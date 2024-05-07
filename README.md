@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Dana. I'm a first year BCS student at UBC.
+My name is Dana. I'm a computer science student in the BCS program at UBC.
 
 
 <!--
